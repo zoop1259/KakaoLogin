@@ -6,7 +6,7 @@ login logout 구현
 
 NewFile -> Configuration Settings File을 활용하여 APIKey를 감추는 방법을 배움.
 
-Kakao는 Auth를 AppLifeCycle을 사용하는 방법을 제공한다는것을 배움.
+Kakao에서는 Auth를 AppLifeCycle을 사용하는 방법을 제공한다.
 (그러나, 이 프로젝트에서는 App, Scene Delegate 둘을 생성하여 활용함.)
 
 동시성을 활용하여 로그인, 로그아웃 상태에 적용함.
